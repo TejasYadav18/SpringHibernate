@@ -1,0 +1,7 @@
+com\springhibernate\Service\ServiceI.class
+com\springhibernate\Dao\PersonDaoImpl.class
+com\springhibernate\Service\PersonService.class
+com\springhibernate\Controller\PersonController.class
+com\springhibernate\Dao\dao.class
+com\springhibernate\Model\Person.class
+com\springhibernate\SpringHibernate\App.class
